@@ -3,5 +3,5 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine("This is a new line");
 
-
+string input = Console.Readline("Please input your data");
 
