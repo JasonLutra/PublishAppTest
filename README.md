@@ -1,6 +1,6 @@
 # App that can be Published
 
-A little console app that can be used for practise publishing of an app.
+A little console app that can be used for practice publishing of an app.
 
 ## Description
 
