@@ -37,8 +37,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Jason Firth
+ex. [Lutra](https://www.lutra.com/our-team/)
 
 ## Version History
 
@@ -50,7 +50,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [EXTREME] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
