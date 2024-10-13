@@ -1,6 +1,6 @@
-# Project Title
+# App that can be Published
 
-Simple overview of use/purpose.
+A little console app that can be used for practise publishing of an app.
 
 ## Description
 
