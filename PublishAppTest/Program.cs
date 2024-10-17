@@ -3,6 +3,12 @@ Console.WriteLine("Hello, World!");
 //test line
 Console.WriteLine("This is a new line");
 
+Console.WriteLine(5.3 % 1);
+Console.WriteLine(2.1 % 1);
+Console.WriteLine(9 % 1);
+
+Console.WriteLine("This is a new line");
+
 Console.WriteLine("Please input your data:");
 //read users input and store in variable
 string input = Console.ReadLine();
